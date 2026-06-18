@@ -1,2 +1,1 @@
-# GitOps
-Example Apps and Changes for practicing with Argo CD
+A comprehensive set of hands on  practices for Argo CD, Argo CD Rollout, and Prometheus
